@@ -20,10 +20,13 @@ My long-term vision is to contribute as a **specialist in Agentic AI**, developi
 ---
 
 ## 🔹 Skills  
-💻 **Languages & Frameworks**: Python, JavaScript, TypeScript, LangChain, Streamlit, Openai Agent SDK 
-⚡ **Databases & Vector Stores**: FAISS, ChromaDB, Qdrant  
-🛠️ **Tools & Platforms**: Git, Anaconda, Docker, Linux, n8n  
-🤖 **AI/ML**: Gemini, OpenAI, Hugging Face, Agent-based AI Systems  
+
+| **Category**              | **Skills**                                                                 |
+|----------------------------|----------------------------------------------------------------------------|
+| **Languages & Frameworks** | Python (Advanced), JavaScript/TypeScript (Intermediate), LangChain (Advanced), Streamlit (Advanced), FastAPI (Intermediate), OpenAI Agent SDK (Advanced) |
+| **Databases & Vector Stores** | FAISS (Advanced), ChromaDB (Advanced), Qdrant (Intermediate)             |
+| **Tools & Platforms**      | Git (Intermediate), Anaconda (Advanced), Docker (Beginner–Intermediate), Linux (Intermediate), n8n (Intermediate) |
+| **AI / ML**                | Gemini (Google AI) (Advanced), OpenAI (GPT Models) (Advanced), Hugging Face (Intermediate), Agent-based AI Systems (Advanced), MCP (Model Context Protocol) (Intermediate) |
 
 ---
 
@@ -37,7 +40,13 @@ My long-term vision is to contribute as a **specialist in Agentic AI**, developi
   - Candidate gets notified if selected/rejected  
   - HR team gets an email when a candidate is shortlisted for interview  
 - Includes **resume preview** for clarity
-- 📄 For additional details, refer to the **documentation [PDF available about this project](Resume Screening System.pdf)**  
+- 📄 For additional details, refer to the **documentation [PDF available about this project](https://github.com/rubaahmedkhan/langchain-resume-screener/blob/b838cfe053ca6a0ecdc5bc8e6b39d35c63022cba/Resume%20Screening%20System.pdf)**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f50bafe0-2541-4c86-ba23-88956239b14c" width="500" />
+</p>
+
+
 
 
 ---
@@ -48,7 +57,7 @@ My long-term vision is to contribute as a **specialist in Agentic AI**, developi
 - Stores embeddings in **FAISS & ChromaDB**  
 - Provides **context-aware answers** using RAG pipeline  
 - Built with **Agentic design** – system decides best data source for each query
--  📄 For additional details, refer to the **documentation [PDF available about this project](Resume Screening System.pdf)**  
+-  📄 For additional details, refer to the **documentation [PDF available about this project](https://github.com/rubaahmedkhan/Agentic-RAG-System.git)**  
 
 
 
@@ -60,11 +69,11 @@ My long-term vision is to contribute as a **specialist in Agentic AI**, developi
 
 - Upload an **Excel sheet** containing student marks and emails.  
 - System automatically generates:  
-  - ✅ **Individual feedback** for each student based on their performance.  
-  - ✅ **Class-level recommendations** to help improve learning outcomes.  
+  -  **Individual feedback** for each student based on their performance.  
+  -  **Class-level recommendations** to help improve learning outcomes.  
 - Extracts student **emails from the Excel file** and sends personalized feedback directly.  
 - Designed as a **scalable AI product for the education sector.**  
-- 📄 For additional details, refer to the **documentation [PDF available about this project](https://github.com/rubaahmedkhan/educonnect_ai.git)**  
+- 📄 For additional details, refer to the **documentation [PDF available about this project](https://github.com/rubaahmedkhan/educonnect_ai/blob/33b470d0b0e2642eff6e7a9448c522a5208c94cf/EduConnect_AI_PRD.pdf)**  
 
 
 ---
