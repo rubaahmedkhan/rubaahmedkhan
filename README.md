@@ -77,7 +77,7 @@ My long-term vision is to contribute as a **specialist in Agentic AI**, developi
 - Stores embeddings in **FAISS & ChromaDB**  
 - Provides **context-aware answers** using RAG pipeline  
 - Built with **Agentic design** – system decides best data source for each query
--  📄 For additional details, refer to the **documentation [PDF available about this project](https://github.com/rubaahmedkhan/Agentic-RAG-System.git)**  
+-  📄 For additional details, refer to the **documentation [PDF available about this project](https://github.com/rubaahmedkhan/Agentic-RAG-System/blob/73c576af50d4f25fef5926bd34a8b8f92d408670/Agentic%20AI%20Rag%20system.pdf)**  
 
 
 
