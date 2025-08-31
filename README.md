@@ -64,7 +64,7 @@ My long-term vision is to contribute as a **specialist in Agentic AI**, developi
 - 📄 For complete details, see [project documentation](https://github.com/rubaahmedkhan/Attendance-management-system/blob/fe11890dd28b3fb91daf0447a26ce5d7d06aa32e/attendance%20management%20system.pdf)
 - [Live Demo](https://purple-punch-attendance.lovable.app)
 
-- <p align="center">
+ <p align="center">
   <img src="https://github.com/rubaahmedkhan/Attendance-management-system/blob/1e7de32e907bd291416b40ed70b9927ef2f91503/image.jpg" width="500" />
 </p>
 
@@ -77,7 +77,11 @@ My long-term vision is to contribute as a **specialist in Agentic AI**, developi
 - Stores embeddings in **FAISS & ChromaDB**  
 - Provides **context-aware answers** using RAG pipeline  
 - Built with **Agentic design** – system decides best data source for each query
--  📄 For additional details, refer to the **documentation [PDF available about this project](https://github.com/rubaahmedkhan/Agentic-RAG-System/blob/73c576af50d4f25fef5926bd34a8b8f92d408670/Agentic%20AI%20Rag%20system.pdf)**  
+-  📄 For additional details, refer to the **documentation [PDF available about this project](https://github.com/rubaahmedkhan/Agentic-RAG-System/blob/73c576af50d4f25fef5926bd34a8b8f92d408670/Agentic%20AI%20Rag%20system.pdf)**
+
+  <div align="center">
+  <img src="https://github.com/rubaahmedkhan/Agentic-RAG-System/blob/a1f30c6559b2a87445c048b27f5e2c796e8c1d88/AgenticRag.jpg" width="400" />
+</div>
 
 
 
@@ -93,7 +97,12 @@ My long-term vision is to contribute as a **specialist in Agentic AI**, developi
   -  **Class-level recommendations** to help improve learning outcomes.  
 - Extracts student **emails from the Excel file** and sends personalized feedback directly.  
 - Designed as a **scalable AI product for the education sector.**  
-- 📄 For additional details, refer to the **documentation [PDF available about this project](https://github.com/rubaahmedkhan/educonnect_ai/blob/33b470d0b0e2642eff6e7a9448c522a5208c94cf/EduConnect_AI_PRD.pdf)**  
+- 📄 For additional details, refer to the **documentation [PDF available about this project](https://github.com/rubaahmedkhan/educonnect_ai/blob/33b470d0b0e2642eff6e7a9448c522a5208c94cf/EduConnect_AI_PRD.pdf)**
+
+  <p align="center">
+  <img src="https://github.com/rubaahmedkhan/educonnect_ai/blob/faf84914c7d19474288302c7be097b55bd8ef30b/EduConnect%20AI%20(1).png" width="500" />
+</p>
+
 
 
 ---
