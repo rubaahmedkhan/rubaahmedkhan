@@ -43,13 +43,33 @@ My long-term vision is to contribute as a **specialist in Agentic AI**, developi
 - 📄 For additional details, refer to the **documentation [PDF available about this project](https://github.com/rubaahmedkhan/langchain-resume-screener/blob/b838cfe053ca6a0ecdc5bc8e6b39d35c63022cba/Resume%20Screening%20System.pdf)**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f50bafe0-2541-4c86-ba23-88956239b14c" width="500" />
+  <img src="https://github.com/rubaahmedkhan/langchain-resume-screener/blob/e40957354a10a7b5b96cf06982652a08ad3c9d96/AI%20(4).png" width="500" />
 </p>
 
 
 
 
 ---
+
+### 📌 Attendance Management System  
+🔹 **Tech Stack**: n8n | Lovable AI | Email Integration  
+
+- 👩‍🏫 **Teacher Dashboard** – Manage classes and students with ease  
+- 🧑‍🎓 **Student Records** – Enter details once, reuse every time  
+- ✅ **Attendance Marking** – Mark students as *Present* or *Absent* quickly  
+- 📧 **Automated Alerts** – Absent students’ parents receive instant email notifications  
+- 🗑 **Data Management** – Add, edit, or delete student details anytime  
+
+⚡ A fast, reliable, and AI-assisted solution that automates attendance management while ensuring timely parent communication.  
+- 📄 For complete details, see [project documentation](https://github.com/rubaahmedkhan/Attendance-management-system/blob/fe11890dd28b3fb91daf0447a26ce5d7d06aa32e/attendance%20management%20system.pdf)
+- [Live Demo](https://purple-punch-attendance.lovable.app)
+
+- <p align="center">
+  <img src="https://github.com/rubaahmedkhan/Attendance-management-system/blob/1e7de32e907bd291416b40ed70b9927ef2f91503/image.jpg" width="500" />
+</p>
+
+
+
 
 ### 📌 [Agentic RAG System](https://github.com/rubaahmedkhan/Agentic-RAG-System.git)  
 🔹 **Tech Stack**: Python | Openai Agent SDK | FAISS | ChromaDB | Web Scraping | Video Processing  
