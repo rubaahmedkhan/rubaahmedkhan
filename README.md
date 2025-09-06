@@ -117,7 +117,7 @@ My long-term vision is to contribute as a **specialist in Agentic AI**, developi
 ## 🔹 Connect With Me  
 📧 Email: **rubaahmedkhan786@gmail.com**  
 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/rubaukhan/)  
-🌐 Portfolio Website (Next.js coming soon): [yourusername.github.io](https://github.com/rubaahmedkhan)  
+🌐 Portfolio Website: [portfolio](https://9f296f42-1c4d-4a6e-bdc6-5eb2aaeceb12-00-2521pfki9299b.riker.replit.dev/#)  
 
 ---
 
