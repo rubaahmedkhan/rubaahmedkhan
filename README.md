@@ -117,7 +117,7 @@ My long-term vision is to contribute as a **specialist in Agentic AI**, developi
 ## 🔹 Connect With Me  
 📧 Email: **rubaahmedkhan786@gmail.com**  
 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/rubaukhan/)  
-🌐 Portfolio Website: [portfolio](https://portfolioruba.vercel.app/)  
+🌐 Portfolio Website: [portfolio](https://portfolio-chatbot1.vercel.app/)  
 
 ---
 
